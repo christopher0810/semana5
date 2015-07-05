@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+F:\word-android\.metadata\.plugins\org.eclipse.jdt.core
+2922259634.index
+3658571239.index
+4147343583.index
+414845347.index
+4166524.index
+1015679632.index
